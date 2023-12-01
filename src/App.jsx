@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const Title = styled.div`
-  color:#BF4F74;
+  color: black;
 `
 
 
